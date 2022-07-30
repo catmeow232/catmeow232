@@ -1,2 +1,1 @@
-# hello
-my name is catmeow232 and i love coding uwu
+# hi ummm i do coding and my projects are free and open source you can fork it if you like 😁
